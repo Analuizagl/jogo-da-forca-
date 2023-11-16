@@ -43,6 +43,6 @@ while True:
      
     print(f'Você tem {chances} chances. ')
     print()
-    
+
     
     
